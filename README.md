@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import bbinary2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcasted-binary2d@esm/index.mjs';
+import bbinary2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcasted-binary2d@v0.0.0-esm/index.mjs';
 ```
 
 #### bbinary2d( arrays, shapes, fcn )
@@ -109,7 +109,7 @@ var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-bas
 import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled2d-by@esm/index.mjs';
 import zeros2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros2d@esm/index.mjs';
 import add from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-add@esm/index.mjs';
-import bbinary2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcasted-binary2d@esm/index.mjs';
+import bbinary2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-broadcasted-binary2d@v0.0.0-esm/index.mjs';
 
 var shapes = [
     [ 1, 3 ],
